@@ -3,13 +3,13 @@ import * as React from "react";
 export default function Removefilter() {
   return (
     <svg
-      className="stroke-red-400  fill-red-400"
+      className="stroke-red-600  fill-transparent stroke-[5px] transition duration-200  hover:ease-in hover:scale-125 "
       version="1.1"
       id="Layer_1"
       x="0px"
       y="0px"
-      width="20px"
-      height="20px"
+      width="16px"
+      height="16px"
       viewBox="0 0 122.88 110.668"
       enable-background="new 0 0 122.88 110.668"
     >
